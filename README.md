@@ -1,4 +1,4 @@
-# Learnin-Basic-Java
+# Learning-Basic-Java
 Simple exercises I do while learning Java.
 
 Java öğrenirken yapmış olduğum basit egzersizler
